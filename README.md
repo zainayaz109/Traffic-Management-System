@@ -17,7 +17,7 @@ For Setting up the Environment, I have used python==3.8 (recommended)
 ```
 ## Weight Files
 Download weights from
-[link](https://drive.google.com/drive/folders/1SMGFrlLxGIQbkTf2si-BDdQFfWTKLyyS?usp=sharing)
+[link](https://drive.google.com/drive/folders/1-rebjmf8I7cw7fTXexSR64xuotMb1kFJ?usp=sharing)
 and put that in easyocr folder.
 ## How to use
 At first, import the service_obj from main.py
